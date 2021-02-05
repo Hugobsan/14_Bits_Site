@@ -1,0 +1,184 @@
+.logo {
+    text-decoration:none;
+    font-size: 22px;
+    margin-top: 20px;
+}
+.abaixa{
+    margin-top: 10px;
+}
+.imagem{
+    position: fixed;
+    z-index: 0;
+}
+
+.sublogo{
+    text-decoration: none;
+    font-size: 15px;
+    margin-top: 27px;
+    margin-left:3px;
+}
+.titulo{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Orbitron', sans-serif;
+} 
+.subtitulo{
+    text-align: center;
+    font-size:46px !important;
+    margin-top: 20px;
+    font-family: 'Fredoka One', cursive;
+}
+.conteudo1{
+    background-color: blanchedalmond;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.foto1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+}
+.paragrafo{
+    text-align: center;
+    font-size: 22px;
+    margin-left: 30px;
+    font-family: 'Montserrat';
+    text-decoration: none;
+    
+}
+.l1>a:link{
+    font-weight: bold;
+    color:rgb(255, 255, 255);
+}
+.l1>a:visited{
+    font-weight: bold;
+    color:rgb(255, 255, 255);
+}
+.l1:a:hover{
+    color:rgb(55, 117, 209);
+}
+.l1>:active{
+    color:rgb(55, 117, 209);
+}
+.l2>a:link{
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+}
+.l2>a:visited{
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+}
+.l2:a:hover{
+    color:rgb(55, 117, 209);
+}
+.l2>:active{
+    color:rgb(0, 0, 0);
+}
+.conteudo2{
+    background-color: rgb(46, 46, 46);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.conteudo3{
+    background-color: rgb(46, 46, 46);
+}
+.formcont{
+    margin-bottom:-10px;
+    margin-top:-16px;
+    background-color: rgb(46, 46, 46);
+}
+.azul-fraco{
+    color:#3354b0 !important;
+}
+.laterais{
+    background-color: #12163d;
+}
+
+.ajusta-foto{
+    margin-top: 20px;
+    max-height:200px;
+    max-width:200px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.afasta{
+    margin-left:30px;
+}
+.submenu{
+    position: fixed;
+    right:0px;
+    top:80px;
+    z-index: 100;
+    
+}
+.btn-laranja{
+    color: rgb(255, 255, 255) !important;
+    background-color:#12163d !important ;
+    font-family: 'Orbitron', sans-serif;
+}
+.btn-laranja:hover{
+    background-color: #1d2363!important;
+
+}
+.sobe{
+    margin-bottom:10px;
+}
+.regulasub{
+    opacity:.7;
+}
+.regulasub:hover{
+    opacity:1;
+}
+
+.subimagem{
+    width:30px;
+}
+
+.subcont{
+        
+    padding:10px 10px 10px 10px;
+}
+#subir {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    opacity:.7;
+    z-index: 100;
+}
+#subir:hover{
+    opacity:1;
+}
+
+h5{
+  font-size: 20px !important;
+  font-style: italic;
+  
+}
+.card-text{
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.nav-link{
+  font-family: 'Allerta Stencil', sans-serif;
+}
+.card-text{
+    font-size: 16px!important ;
+}
+
+.text-secondary{
+  font-size: 15px;
+  font-family: 'Allerta Stencil', sans-serif;
+}
+
+.text-dark{
+  font-size: 20px;
+  font-family: 'Allerta Stencil', sans-serif;
+}
+
+.text-white{
+  font-family:'Allerta Stencil', sans-serif !important;
+  font-size: 15px;
+}
+
